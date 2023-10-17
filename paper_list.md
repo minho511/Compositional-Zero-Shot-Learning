@@ -17,6 +17,7 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 ||ICCV|Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Hierarchical_Visual_Primitive_Experts_for_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/~~code~~|
 ||ICCV|Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/~~code~~|
 ||AAAI|Leveraging Sub-class Discimination for Compositional Zero-Shot Learning|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25168)/~~code~~|
+||WACV|Learning Attention Propagation for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)/~~code~~|
 ||ICMR|Reference-Limited Compositional Zero-Shot Learning|[paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592225)/~~code~~|
 ||Arxiv|Prompting Language-Informed Distribution for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2305.14428)/~~code~~|
 ||Arxiv|DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2305.01239)/[code](https://github.com/Forest-art/DRPT)|
