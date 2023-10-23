@@ -8,19 +8,19 @@
 
 - Dataset
 
-    |              |   |
-    |:---          |---|
-    |Images        |53K|
-    |Objects       |245|
-    |Possible state|115|
+|              |   |
+|:---          |---|
+|Images        |53K|
+|Objects       |245|
+|Possible state|115|
 
 - [Standard Split](https://arxiv.org/pdf/1905.05908.pdf)
 
-    |Set   |# of data|object-attribute pairs|
-    |:---  |---      |---                   |
-    |Train |30K      |1262(seen)            |
-    |Valid |10K      |300(seen)/300(unseen) |
-    |Test  |13K      |400(seen)/400(unseen) |
+|Set   |# of data|object-attribute pairs|
+|:---  |---      |---                   |
+|Train |30K      |1262(seen)            |
+|Valid |10K      |300(seen)/300(unseen) |
+|Test  |13K      |400(seen)/400(unseen) |
 
 - [Output Space](https://arxiv.org/pdf/2101.12609.pdf)
     - Closed World

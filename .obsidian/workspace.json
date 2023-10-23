@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "c74811fc85de4b2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b1a22b71215d14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7688822b1bb892ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MIT-states.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8914cb491701576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper_review/DRANet(ICCV2023).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765899bea8fe4779",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c4486e52e35a71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e31b83359573341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd5f31e68471418f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fa47b2b6edd6802",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29d74656b19ea571",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf503fbe3c41b4e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a37d83520248948d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "paper_review/DRANet(ICCV2023).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2e84fa0390c550f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "paper_review/DRANet(ICCV2023).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d4aae4d3f9da0eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b1a6e9fd7741a61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "paper_review/DRANet(ICCV2023).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9e31b83359573341",
+  "lastOpenFiles": [
+    "MIT-states.md",
+    "paper_review/DRANet(ICCV2023).md",
+    "C-GQA.md",
+    "README.md",
+    "src/2371720-28-gray-pants.jpg",
+    "src/4ae77db785571686330511eaea351094.jpg",
+    "src/1-4-brick-sidewalk.jpg"
+  ]
+}
