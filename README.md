@@ -8,7 +8,7 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 
 ### Papers
 
-|Years|Conference/Journal|Titile|Link|
+|Years|Conference/Journal|Title|Link|
 |---|---|---|---|
 |2023|CVPR|Learning Attention As Disentangler for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/haoosz/ade-czsl)
 ||CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/Forest-art/DFSP)|
