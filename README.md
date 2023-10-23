@@ -33,7 +33,7 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 ||Arxiv|ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2211.12417)/~~code~~|O|
 ||Arxiv|Simple Primitives with Feasibility and Contextuality-Dependence for Open-World Compositional Zero-shot Learning|[paper](https://arxiv.org/abs/2211.02895)/~~code~~|
 |2021|CVPR|Open world compositional zero-shot learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.html)/[code](https://github.com/ExplainableML/czsl)|
-||CVPR|Learning Graph Embeddings for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/)/[code](https://github.com/ExplainableML/czsl)|Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.html)/[code](https://github.com/ExplainableML/czsl)|
+||CVPR|Learning Graph Embeddings for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/)/[code](https://github.com/ExplainableML/czsl)|
 ||NeruIPS|Independent Prototype Propagation for Zero-Shot Compositionality|[paper](https://arxiv.org/abs/2106.00305)/[code](https://github.com/FrankRuis/ProtoProp)|
 ||NeruIPSW DistShift|Revisiting Visual Product for Compositional Zero-Shot Learning|[paper](https://openreview.net/forum?id=Yc9Vh1nn-2I)/~~code~~|
 ||TMM|Relation-aware Compositional Zero-shot Learning for Attribute-Object Pair Recognition|[paper](https://arxiv.org/abs/2108.04603)/[code](https://github.com/daoyuan98/Relation-CZSL)|
