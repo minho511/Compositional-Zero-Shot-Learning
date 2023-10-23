@@ -7,15 +7,15 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 - MIT-States / UT-Zappos / C-GQA
 
 ### Papers
-
-|Years|Conference/Journal|Title|Link|
-|---|---|---|---|
-|2023|CVPR|Learning Attention As Disentangler for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/haoosz/ade-czsl)
-||CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/Forest-art/DFSP)|
-||CVPR|Learning Conditional Attributes for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/wqshmzh/CANet-CZSL)|
+** OW : whether there is a contribution to the setting of the open world
+|Years|Conference/Journal|<div style="width:400px">Title</div>|Link|OW|
+|:---:|:---:|---|:---:|:---:|
+|2023|CVPR|Learning Attention As Disentangler for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/haoosz/ade-czsl)|X|
+||CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/Forest-art/DFSP)||
+||CVPR|Learning Conditional Attributes for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/wqshmzh/CANet-CZSL)||
 ||ICLR|Learning to Compose Soft Prompts for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2204.03574)/[code](https://github.com/BatsResearch/csp)
 ||ICCV|Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Hierarchical_Visual_Primitive_Experts_for_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/~~code~~|
-||ICCV|Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/~~code~~|
+||ICCV|Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/~~code~~|O|
 ||AAAI|Leveraging Sub-class Discimination for Compositional Zero-Shot Learning|[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25168)/~~code~~|
 ||WACV|Learning Attention Propagation for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)/~~code~~|
 ||ICMR|Reference-Limited Compositional Zero-Shot Learning|[paper](https://dl.acm.org/doi/abs/10.1145/3591106.3592225)/~~code~~|
@@ -30,7 +30,7 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 ||ACM-MM|On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning|[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547798)/~~code~~|
 ||TPAMI|Learning Graph Embeddings for Open World Compositional Zero-Shot Learning|[paper](https://ieeexplore.ieee.org/abstract/document/9745371)/~~code~~|
 ||TMM|A Decomposable Causal View of Compositional Zero-Shot Learning|[paper](https://ieeexplore.ieee.org/abstract/document/9864072)/~~code~~|
-||Arxiv|ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2211.12417)/~~code~~|
+||Arxiv|ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2211.12417)/~~code~~|O|
 ||Arxiv|Simple Primitives with Feasibility and Contextuality-Dependence for Open-World Compositional Zero-shot Learning|[paper](https://arxiv.org/abs/2211.02895)/~~code~~|
 |2021|CVPR|Open world compositional zero-shot learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.html)/[code](https://github.com/ExplainableML/czsl)|
 ||CVPR|Learning Graph Embeddings for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/)/[code](https://github.com/ExplainableML/czsl)|Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.html)/[code](https://github.com/ExplainableML/czsl)|
