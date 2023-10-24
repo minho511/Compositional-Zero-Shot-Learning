@@ -13,5 +13,7 @@ ___
 (ex. affinity estimation, contrastive learning, cutting the confounding links)
 
 
-| 이 논문은 새로운 disentangling 전략을 제안한다. (특히 Open-World에 적합한 방식임을 강조한다)
+- 이 논문은 새로운 disentangling 전략을 제안한다. (특히 Open-World에 적합한 방식임을 강조한다)
+
+- OW-CZSL을 위해 disentangling 을 시도한 첫번째 방식이다.
 
