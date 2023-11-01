@@ -7,7 +7,7 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 - MIT-States / UT-Zappos / C-GQA
 
 ### Papers
-** OW : whether there is a contribution to the setting of the open world
+** OW : Open-World Setting
 |Years|Conference/Journal|<div style="width:400px">Title</div>|Link|OW|
 |:---:|:---:|---|:---:|:---:|
 |2023|CVPR|Learning Attention As Disentangler for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/haoosz/ade-czsl)|X|
