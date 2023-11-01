@@ -27,11 +27,11 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 ||CVPR|KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Karthik_KG-SP_Knowledge_Guided_Simple_Primitives_for_Open_World_Compositional_Zero-Shot_CVPR_2022_paper.html)/[code](https://github.com/ExplainableML/KG-SP)|O|
 ||ECCV|Learning Invariant Visual Representations for Compositional Zero-Shot Learning|[paper](https://link.springer.com/chapter/10.1007/978-3-031-20053-3_20)/[code](https://github.com/PRIS-CV/IVR)|
 ||ECCV|3D Compositional Zero-Shot Learning with DeCompositional Consensus|[paper](https://link.springer.com/chapter/10.1007/978-3-031-19815-1_41)/[code](https://github.com/ferjad/3DCZSL)
-||ACM-MM|On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning|[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547798)/~~code~~|
+||ACM-MM|On Leveraging Variational Graph Embeddings for Open World Compositional Zero-Shot Learning|[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3547798)/~~code~~|O|
 ||TPAMI|Learning Graph Embeddings for Open World Compositional Zero-Shot Learning|[paper](https://ieeexplore.ieee.org/abstract/document/9745371)/~~code~~|O|
 ||TMM|A Decomposable Causal View of Compositional Zero-Shot Learning|[paper](https://ieeexplore.ieee.org/abstract/document/9864072)/~~code~~|
 ||Arxiv|ProCC: Progressive Cross-primitive Compatibility for Open-World Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2211.12417)/~~code~~|O|
-||Arxiv|Simple Primitives with Feasibility and Contextuality-Dependence for Open-World Compositional Zero-shot Learning|[paper](https://arxiv.org/abs/2211.02895)/~~code~~|
+||Arxiv|Simple Primitives with Feasibility and Contextuality-Dependence for Open-World Compositional Zero-shot Learning|[paper](https://arxiv.org/abs/2211.02895)/~~code~~|O|
 |2021|CVPR|Open world compositional zero-shot learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.html)/[code](https://github.com/ExplainableML/czsl)|O|
 ||CVPR|Learning Graph Embeddings for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2021/html/)/[code](https://github.com/ExplainableML/czsl)|
 ||NeruIPS|Independent Prototype Propagation for Zero-Shot Compositionality|[paper](https://arxiv.org/abs/2106.00305)/[code](https://github.com/FrankRuis/ProtoProp)|
