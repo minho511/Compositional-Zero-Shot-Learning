@@ -1,10 +1,9 @@
 # Compositional Zero-Shot Learning
 
-Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-shot-learning/codeless) / [Google Scholar](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=compositional+zero+shot+learning&btnG=&oq=compositional+zero+shot+learning)
-
-
 ### Dataset
 - MIT-States / UT-Zappos / C-GQA
+
+___
 
 ### Papers
 ** OW : Open-World Setting
@@ -55,5 +54,8 @@ ___
 
 |Years|Conference/Journal|<div style="width:400px">Title</div>|Link|
 |:---:|:---:|---|:---:|
-|2023|Arxiv|Compositional Zero-shot Learning via Progressive Language-based Observations|[paper](https://arxiv.org/abs/2311.14749)/~~[code]~~|
-||Arxiv|DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2305.01239)/~~[code]~~|
+|2023|CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning [DFSP]|[paper](https://arxiv.org/abs/2211.10681)/[code](https://github.com/Forest-art/DFSP)|
+||ICLR|Learning to Compose Soft Prompts for Compositional Zero-Shot Learning [CSP]|[paper](https://arxiv.org/abs/2204.03574)/[code](https://github.com/BatsResearch/csp)|
+||Arxiv|Compositional Zero-shot Learning via Progressive Language-based Observations [PLO-VLM]|[paper](https://arxiv.org/abs/2311.14749)/~~[code]~~|
+||Arxiv|Troika: Multi-Path Cross-Modal Traction for Compositional Zero-Shot Learning [Troika]|[paper](https://arxiv.org/abs/2303.15230)/[code](https://github.com/bighuang624/Troika)|
+||Arxiv|DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning [DRPT]|[paper](https://arxiv.org/abs/2305.01239)/~~[code]~~|
