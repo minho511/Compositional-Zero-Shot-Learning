@@ -49,3 +49,11 @@ Links : [Papers With Code](https://paperswithcode.com/task/compositional-zero-sh
 ||CVPR|TAFE-Net: Task-Aware Feature Embeddings for Low Shot Learning|[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_TAFE-Net_Task-Aware_Feature_Embeddings_for_Low_Shot_Learning_CVPR_2019_paper.pdf)/[code](https://github.com/ucbdrive/tafe-net)|
 |2018|ECCV|Attributes as Operators: Factorizing Unseen Attribute-Object Compositions|[paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.pdf)/[code](https://github.com/Tushar-N/attributes-as-operators)|
 |2017|CVPR|From red wine to red tomato: Composition with context|[paper](https://ieeexplore.ieee.org/document/8099612)/~~code~~|
+
+___
+### CZSL with VLMs
+
+|Years|Conference/Journal|<div style="width:400px">Title</div>|Link|
+|:---:|:---:|---|:---:|
+|2023|Arxiv|Compositional Zero-shot Learning via Progressive Language-based Observations|[paper](https://arxiv.org/abs/2311.14749)/~~[code]~~|
+||Arxiv|DRPT: Disentangled and Recurrent Prompt Tuning for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2305.01239)/~~[code]~~|
