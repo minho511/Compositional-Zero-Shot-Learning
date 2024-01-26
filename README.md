@@ -10,7 +10,7 @@ ___
 |Years|Conference/Journal|<div style="width:400px">Title</div>|Link|OW|
 |:---:|:---:|---|:---:|:---:|
 |2023|CVPR|Learning Attention As Disentangler for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/haoosz/ade-czsl)|X|
-||CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/Forest-art/DFSP)||
+||CVPR|Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/Forest-art/DFSP)|O|
 ||CVPR|Learning Conditional Attributes for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.html)/[code](https://github.com/wqshmzh/CANet-CZSL)||
 ||ICLR|Learning to Compose Soft Prompts for Compositional Zero-Shot Learning|[paper](https://arxiv.org/abs/2204.03574)/[code](https://github.com/BatsResearch/csp)
 ||ICCV|Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning|[paper](https://openaccess.thecvf.com/content/ICCV2023/html/Kim_Hierarchical_Visual_Primitive_Experts_for_Compositional_Zero-Shot_Learning_ICCV_2023_paper.html)/[code](https://github.com/HanjaeKim98/CoT)|
